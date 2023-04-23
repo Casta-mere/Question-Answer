@@ -1,0 +1,8 @@
+使用anaconda环境下的python3.6进行分词
+
+activate QA
+d:
+cd D:\Onedrive\OneDrive - txsxcy\CODE\Python\Project\Question\分词
+python main.py
+
+http://127.0.0.1:8891/ner1

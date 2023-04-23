@@ -1,0 +1,3 @@
+python Spider_Baidu.py
+python Spider_Bing.py
+python Spider_Google.py
